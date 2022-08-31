@@ -32,7 +32,7 @@ To run while idle use
 screen node index.js
 ```
 
-# Rule Example (Just in case you want to use)
+# CF Rule Example (Just in case you want to use)
 Paste in cf rule
 ```sh
 (http.request.full_uri contains "https://dstat.dimis.dev/v1")
