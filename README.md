@@ -1,7 +1,7 @@
 # Dimis-Dstat
 An OpenSource DDoS Stat Website source as in https://dstat.dimis.dev
 This is a modified version of dstat.ru (https://github.com/KirillChimbur/DSTAT-RU-L7)
-I made it have 2 version (V1 and V2) that you can choose to have uam/protection or sth trough URI-FULL
+I made it have 2 version (V1 and V2) that you can choose to have uam/protection or sth trough URI-FULL in cloudflare
 
 
 # Showcase: 
