@@ -31,3 +31,12 @@ To run while idle use
 ```sh
 screen node index.js
 ```
+
+
+
+## Developer
+
+👤 **DimisSSH**
+
+- Website: https://dimis.dev
+- Github: [@DimisSSH](https://github.com/DimisSSH)
