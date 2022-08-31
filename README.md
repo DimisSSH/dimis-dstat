@@ -33,7 +33,7 @@ screen node index.js
 ```
 
 # CF Rule Example (Just in case you want to use)
-Paste in cf rule
+Paste in cf rule (change domain ofc)
 ```sh
 (http.request.full_uri contains "https://dstat.dimis.dev/v1")
 ```
