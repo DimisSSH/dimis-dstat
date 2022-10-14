@@ -5,10 +5,9 @@ I made it have 2 version (V1 and V2) that you can choose to have uam/protection 
 
 
 # Showcase: 
-![main](https://cdn.discordapp.com/attachments/1012085212823437334/1014508050461233203/main.PNG)
-![atc](https://cdn.discordapp.com/attachments/1012085212823437334/1014508093150867477/atc.PNG)
-Live: https://dvlopd.cf
-Live (in dstat.cc): https://dstat.cc/l7custom-3.php
+![main](https://cdn.discordapp.com/attachments/1016020585979056151/1030469749156614195/d_img1.PNG)
+![atc](https://cdn.discordapp.com/attachments/1016020585979056151/1030469749504741376/d_img2.PNG)
+Live: https://dvlopd.cf or https://dstat.cc/l7custom-3.php (Dstat.CC)
 
 # Requirements
 1. NodeJS
@@ -38,7 +37,7 @@ Paste in cf rule (change domain ofc)
 ```sh
 (http.request.full_uri contains "https://dvlopd/cf/v1")
 ```
-Then > JS Challenge
+Then > Managed Challenge
 
 
 ## Developer
