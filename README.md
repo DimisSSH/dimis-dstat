@@ -7,7 +7,8 @@ I made it have 2 version (V1 and V2) that you can choose to have uam/protection 
 # Showcase: 
 ![main](https://cdn.discordapp.com/attachments/1012085212823437334/1014508050461233203/main.PNG)
 ![atc](https://cdn.discordapp.com/attachments/1012085212823437334/1014508093150867477/atc.PNG)
-Live: https://dstat.dimis.dev
+Live: https://dvlopd.cf
+Live (in dstat.cc): https://dstat.cc/l7custom-3.php
 
 # Requirements
 1. NodeJS
@@ -35,7 +36,7 @@ screen node index.js
 # CF Rule Example (Just in case you want to use)
 Paste in cf rule (change domain ofc)
 ```sh
-(http.request.full_uri contains "https://dstat.dimis.dev/v1")
+(http.request.full_uri contains "https://dvlopd/cf/v1")
 ```
 Then > JS Challenge
 
@@ -45,4 +46,6 @@ Then > JS Challenge
 👤 **DimisSSH**
 
 - Website: https://dimis.dev
+- Strεssεr: https://stresser.one
+- Telegram: [@dvlopd](https://t.me/dvlopd)
 - Github: [@DimisSSH](https://github.com/DimisSSH)
