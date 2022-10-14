@@ -21,19 +21,19 @@ apt install nodejs
 apt install npm
 apt install screen
 git clone https://github.com/DimisSSH/dimis-dstat
-cd src/dstat-v2 && npm i
+cd dimis-dstat/src/dstat-v2 && npm i
 ```
 
 # Running:
 
 To run once use:
 ```sh
-node src/dstat-v2/index.js
+node dimis-dstat/src/dstat-v2/index.js
 ```
 
 To automatic run use
 ```sh
-screen -S dstat node src/dstat-v2/index.js
+screen -S dstat node dimis-dstat/src/dstat-v2/index.js
 ```
 
 To stop automatic run use
