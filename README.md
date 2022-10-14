@@ -20,19 +20,20 @@ Live: https://dvlopd.cf or https://dstat.cc/l7custom-3.php (Dstat.CC)
 apt install nodejs
 apt install npm
 apt install screen
-cd dstat-v2 && npm i
+git clone https://github.com/DimisSSH/dimis-dstat
+cd src/dstat-v2 && npm i
 ```
 
 # Running:
 
 To run once use:
 ```sh
-node index.js
+node src/dstat-v2/index.js
 ```
 
 To automatic run use
 ```sh
-screen -S dstat node index.js
+screen -S dstat node src/dstat-v2/index.js
 ```
 
 To stop automatic run use
