@@ -17,6 +17,9 @@ Live: https://dvlopd.cf or https://dstat.cc/l7custom-3.php (Dstat.CC)
 
 # Installation:
 ```sh
+apt install nodejs
+apt install npm
+apt install screen
 cd dstat-v2 && npm i
 ```
 
@@ -27,9 +30,14 @@ To run once use:
 node index.js
 ```
 
-To run while idle use
+To automatic run use
 ```sh
-screen node index.js
+screen -S dstat node index.js
+```
+
+To stop automatic run use
+```sh
+pkill screen
 ```
 
 # CF Rule Example (Just in case you want to use)
