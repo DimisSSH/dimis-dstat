@@ -1,5 +1,5 @@
 # Dimis-Dstat
-An OpenSource DD0S Stat Website source as in https://dvlopd.cf ( that was in https://dimis.dev )
+An OpenSource Stat Website source as in https://dvlopd.cf ( that was in https://dimis.dev )
 This is a modified & translated version of dstat.ru (https://github.com/KirillChimbur/DSTAT-RU-L7)
 I made it have 2 version (V1 and V2) that you can choose to have uam/protection or anything trough URI-FULL in cloudflare or any CDN you like and I also changed some if its design!
 
