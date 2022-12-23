@@ -51,9 +51,6 @@ Then > Managed Challenge
 
 ## Developer
 
-👤 **DimisSSH**
 
-- Website: https://dimis.dev
-- My Strεssεr: https://stresser.one
 - Telegram: [@dvlopd](https://t.me/dvlopd)
 - Github: [@DimisSSH](https://github.com/DimisSSH)
